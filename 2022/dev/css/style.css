@@ -1,6 +1,6 @@
 * { margin: 0px; padding:0px}
 body{
-    background-color: gainsboro;
+    background-color: rgba(220, 220, 220, 0.74);
     
 }
 .pos{
@@ -39,6 +39,7 @@ body{
     display: inline-block;
     width: 400px;
     height: 400px;
+}
 h1 {
     position: absolute;
     top: 15%;
